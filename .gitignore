@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
+src/__pycache__
+model/best_grid_rf_clf.pickle
